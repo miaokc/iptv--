@@ -1,0 +1,130 @@
+#EXTM3U
+#EXTINF:-1,如东新闻综合
+http://live1.rdxmt.com/xwzh/sd/live.m3u8
+#EXTINF:-1,如东生活服务
+http://live1.rdxmt.com/shfw/sd/live.m3u8
+#EXTINF:-1 ,CCTV-1超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+#EXTINF:-1 ,CCTV-2高清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-2-HD/G_CCTV-2-HD/
+#EXTINF:-1 ,CCTV-3超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+#EXTINF:-1 ,CCTV-4超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+#EXTINF:-1 ,CCTV-5超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1 ,CCTV-5+超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+#EXTINF:-1 ,CCTV-6超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/
+#EXTINF:-1 ,CCTV-7超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+#EXTINF:-1 ,CCTV-8超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+#EXTINF:-1 ,CCTV-9超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+#EXTINF:-1 ,CCTV-10超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 ,CCTV-11超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1 ,CCTV-12超清
+http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
+#EXTINF:-1 ,CCTV-13超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1 ,CCTV-14超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+#EXTINF:-1 ,CCTV-15超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+#EXTINF:-1 ,CCTV-NEWS
+http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+#EXTINF:-1 ,CCTV17
+http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
+#EXTINF:-1 ,浙江卫视
+http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/
+#EXTINF:-1 ,江苏卫视
+http://223.110.241.139:6610/gitv/live1/JSWS-HD/JSWS-HD/
+#EXTINF:-1 ,湖南卫视
+http://223.110.241.139:6610/gitv/live1/G_HUNAN/G_HUNAN/
+#EXTINF:-1 ,安徽卫视
+http://223.110.241.139:6610/gitv/live1/AHWS/AHWS/
+#EXTINF:-1 ,辽宁卫视
+http://223.110.241.139:6610/gitv/live1/LNWS/LNWS/
+#EXTINF:-1 ,广西卫视
+http://223.110.241.139:6610/gitv/live1/GXWS/GXWS/
+#EXTINF:-1 ,旅游卫视
+http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/
+#EXTINF:-1 ,重庆卫视
+http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
+#EXTINF:-1 ,四川卫视
+http://223.110.241.139:6610/gitv/live1/SCWS/SCWS/
+#EXTINF:-1 ,河南卫视
+http://223.110.241.139:6610/gitv/live1/HENAN/HENAN/
+#EXTINF:-1 ,东南卫视
+http://223.110.241.139:6610/gitv/live1/DNWS/DNWS/
+#EXTINF:-1 ,天津卫视
+http://223.110.241.139:6610/gitv/live1/TJWS/TJWS/
+#EXTINF:-1 ,江西卫视
+http://223.110.241.139:6610/gitv/live1/JXWS/JXWS/
+#EXTINF:-1 ,湖北卫视
+http://223.110.241.139:6610/gitv/live1/G_HUBEI/G_HUBEI/
+#EXTINF:-1 ,吉林卫视
+http://223.110.241.139:6610/gitv/live1/G_JILIN/G_JILIN/
+#EXTINF:-1 ,山西卫视
+http://223.110.241.139:6610/gitv/live1/SXWS/SXWS/
+#EXTINF:-1 ,贵州卫视
+http://223.110.241.139:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
+#EXTINF:-1 ,青海卫视
+http://223.110.241.139:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
+#EXTINF:-1 ,内蒙古卫视
+http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
+#EXTINF:-1 ,云南卫视
+http://223.110.241.139:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
+#EXTINF:-1 ,河北卫视
+http://223.110.241.139:6610/gitv/live1/G_HEBEI/G_HEBEI/
+#EXTINF:-1 ,宁夏卫视
+http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
+#EXTINF:-1 ,新疆卫视
+http://223.110.241.139:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
+#EXTINF:-1 ,甘肃卫视
+http://223.110.241.139:6610/gitv/live1/G_GANSU/G_GANSU/
+#EXTINF:-1 ,西藏卫视
+http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
+#EXTINF:-1 ,优漫卡通
+http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+#EXTINF:-1 ,东方卫视
+http://223.110.241.139:6610/gitv/live1/G_DONGFANG/G_DONGFANG/
+#EXTINF:-1 ,北京卫视
+http://223.110.241.139:6610/gitv/live1/G_BEIJING/G_BEIJING/
+#EXTINF:-1 ,广东卫视
+http://223.110.241.139:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG/
+#EXTINF:-1 ,深圳卫视
+http://223.110.241.139:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
+#EXTINF:-1 ,黑龙江卫视
+http://223.110.241.139:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/
+#EXTINF:-1 ,兵团卫视
+http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
+#EXTINF:-1 ,陕西卫视
+http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/
+#EXTINF:-1 ,南方卫视（广东）
+http://223.110.241.139:6610/gitv/live1/G_NANFANG/G_NANFANG/
+#EXTINF:-1 ,厦门卫视
+http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
+#EXTINF:-1 ,江苏教育
+http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
+#EXTINF:-1 ,江苏城市
+http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
+#EXTINF:-1 ,江苏公共
+http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
+#EXTINF:-1 ,江苏影视
+http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
+#EXTINF:-1 ,江苏休闲体育
+http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
+#EXTINF:-1 ,江苏综艺
+http://223.110.241.139:6610/gitv/live1/G_JSZY/G_JSZY/
+#EXTINF:-1 ,凤凰信息
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 ,BBC经典系列展播
+http://qdntv96789.applinzi.com/96tv.php?633138330
+
+
+

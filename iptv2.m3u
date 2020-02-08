@@ -31,8 +31,6 @@ http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
 #EXTINF:-1, group-title="中央频道", CCTV-5+
 http://39.135.135.9:80/wh7f454c46tw1931577159_77781399/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=813
-#EXTINF:-1, group-title="中央频道", ﻿CCTV-1
-http://111.48.34.189:80/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225965/1.m3u8?icpid=88888888&from=1&ocs=2_111.48.34.189_80&hms_devid=1323
 #EXTINF:-1, group-title="地方频道", 吉林卫视
 http://39.134.65.65:80/wh7f454c46tw1933119416_353065951/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225637/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=125
 #EXTINF:-1, group-title="地方频道", 四川卫视
